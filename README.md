@@ -1,9 +1,11 @@
 # first-project
-Does this work?
-Took the dog for a walk in the park today
+*Group participants: 
+  Grant Leach, Nathan Prows, Mary Whistler, Veronica Hamilton
 
-The dog ran fast
-Go dog go
-Jane likes the dog. 
-The dog likes Jane
-I hope this works.
+*The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
+  
+
+The kinds of questions you'll be asking of that data
+
+
+Possible source for such data
