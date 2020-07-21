@@ -13,10 +13,12 @@ The kinds of questions you'll be asking of that data
 
 Scope additional notes:
 The focus of the lyrics will be substanstive words, excluding articles and pronouns. 
-We will examine songs published between 2010-2019
+We will examine songs published between 2010-2019.
+Only the top 100 songs of each year will be analyzed.
+
 
 Project Title: 
-"Song Lyric and Structure Changes in the Last 10 Years"
+"Song Lyric and Structure Changes for Popular Music in the Last 10 Years"
 
 Tasks:
 1. Mary will resolve question 1
