@@ -3,25 +3,33 @@
   Grant Leach, Nathan Prows, Mary Whistler, Veronica Hamilton
 
 *The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
-Music Data
+Movie Data - omdb API and also used a csv file of highest grossing movies
 
 
 The kinds of questions you'll be asking of that data
-1. What are the 5 most popular song "words" over the last 10 years?
-2. What are the average song lengths over the last 10 years?
-3. How has song "structure" changed over the last 10 years?
+1. Are there any recurring themes of the plots of the highest grossing movies 2008-2018?
+2. What were the most popular actors/actresses in the same movies?
+3. Which scoring model is most reflective of the financial success of the movie?
+4. What are the most popular genres of each year?
+
 
 Scope additional notes:
-The focus of the lyrics will be substanstive words, excluding articles and pronouns. 
-We will examine songs published between 2010-2019.
-Only the top 100 songs of each year will be analyzed.
+-We define "highest grossing" as grossing more than $300mil in the year it was released.
+-Our data set is defined by movies released 2008-2018.
+-Actor/actress popularity is defined by how many movies they appeared in within that list of movies.
+-The plot will be defined by the synopsis shown in OMDB.
+-The most popular genre will be defined by which genre appears the most time in each year.
 
 
 Project Title: 
-"Song Lyric and Structure Changes for Popular Music in the Last 10 Years"
+"Highest Grossing Movie Analysis (2008-2018)"
 
 Tasks:
-1. Mary will resolve question 1
-2. Veronica will resolve question 2
-3. Grant will resolve question 3
-4. Nate will assist with cleaning up the data for the analysis.
+1. Import our datasets into the main code - team
+2. Update the dataframe with synopsis from OMDB - team
+3. Update the dataframe with the actors/actresses names from OMDB - team
+4. Question 1 - Mary
+5. Question 2 - Grant
+6. Question 3 - Nate
+7. Question 4- Veronica
+8. Presentation/Powerpoint - team
